@@ -1,3 +1,9 @@
+# Simple markdown editor
+it's in the name. It is simple.
+not exactly proud of it but hey it works
+-
+supports github markdown, no html tags (sanitized)
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
