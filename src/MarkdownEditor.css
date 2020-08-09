@@ -34,3 +34,11 @@ button {
     background-color: #5a5b5c;
     border-radius: 10px;
 }
+
+.footer {
+    font-size:small;
+}
+
+a, a:visited, a:hover {
+    color: white;
+}
