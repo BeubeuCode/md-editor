@@ -3,6 +3,7 @@ it's in the name. It is simple.
 not exactly proud of it but hey it works
 -
 supports github markdown, no html tags (sanitized)
+# [Test it online](https://md-editor.vercel.app/)
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
