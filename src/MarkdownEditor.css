@@ -31,8 +31,12 @@ button {
 .Output {
     margin: 0 1%;
     padding: 1%;
-    background-color: #5a5b5c;
-    border-radius: 10px;
+    /* background-color: #5a5b5c;
+    border-radius: 10px; */
+    border-radius: 50px;
+    background: #282c34;
+    box-shadow:  20px 20px 60px #22252c, 
+                 -20px -20px 60px #2e333c;
 }
 
 .footer {
