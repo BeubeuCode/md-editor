@@ -7,7 +7,7 @@ class MarkdownEditor extends React.Component {
     constructor(props) {
         super(props);
         this.handleChange = this.handleChange.bind(this);
-        this.state = {value : '_this_ **is** ***A*** Markdown editor'};
+        this.state = {value : 'Enter your **markdown** in the text area. It will show up below !'};
     }
 
     handleChange(e) {

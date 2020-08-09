@@ -28,7 +28,9 @@ button {
     font-size: medium;
 }
 
-.output {
-    background-color: #2d2e31;
+.Output {
+    margin: 0 1%;
+    padding: 1%;
+    background-color: #5a5b5c;
     border-radius: 10px;
 }
