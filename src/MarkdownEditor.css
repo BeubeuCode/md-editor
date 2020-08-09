@@ -18,5 +18,6 @@ button {
 .mdInput {
     padding: 10px;
     border-radius: 5px;
-    
+    background-color: #282c34;
+    color:white;
 }
