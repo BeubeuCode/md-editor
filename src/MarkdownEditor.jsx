@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from './footer';
 import MDReactComponent from 'markdown-react-js';
 import Title from './Title';
 import  './MarkdownEditor.css'
@@ -44,6 +45,7 @@ class MarkdownEditor extends React.Component {
                 <div className="Output">
                     <MDReactComponent text={this.state.value}/>
                 </div>
+                <Footer />
             </div>
         )
     }
