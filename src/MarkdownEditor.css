@@ -20,4 +20,15 @@ button {
     border-radius: 5px;
     background-color: #282c34;
     color:white;
+    width: 80%;
+    height: 70%;
+}
+
+.Title {
+    font-size: medium;
+}
+
+.output {
+    background-color: #2d2e31;
+    border-radius: 10px;
 }

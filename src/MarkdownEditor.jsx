@@ -40,8 +40,8 @@ class MarkdownEditor extends React.Component {
                         Copy To Clipboard
                     </button>
                 </div>
+                <hr />
                 <div className="Output">
-                    <h2>Output</h2>
                     <MDReactComponent text={this.state.value}/>
                 </div>
             </div>
