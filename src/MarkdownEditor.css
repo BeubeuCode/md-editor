@@ -31,6 +31,12 @@ button {
 
 .Title {
     font-size: medium;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #282c34;
+    color:white;
+    width: 80%;
+    height: 70%;
 }
 
 .Output {
